@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "watchlist",
     "watchlist_app",
+    "watchlist_class_app"
 
 ]
 
